@@ -46,7 +46,7 @@ Here are some of my notable projects:
 
 **🏆 Achievements:**
 
-*  1st Prize - World Space Week 2019 (SHAR-ISRO) – Ion Engine Working Prototype (Putting my engineering skills to the test!)
+*  1st Prize - World Space Week 2019 (SHAR-ISRO-[Indian Space Research Organization]) – Ion Engine Working Prototype (Putting my engineering skills to the test!)
 *  Published paper on Free Space Optics (Sharing my knowledge with the scientific community)
 
 **🎹 Side hobbies:**
