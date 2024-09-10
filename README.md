@@ -59,7 +59,7 @@ Here are some of my notable projects:
 
 **🏎 Fast Learner:** I'm always eager to expand my knowledge and explore new ideas.
 
-** Connector:** I believe in the power of collaboration and combining diverse perspectives.
+**🛰Connector:** I believe in the power of collaboration and combining diverse perspectives.
 
 **This is just the beginning! I'm excited to see what the future holds. **
 
