@@ -1,9 +1,10 @@
 **😄 Hi, I'm Devi!** 
+
 (🇮🇳 From India)
 **You can call me Devi or Chai!!**
 **Pronouns:** **He/Him**
 
-**Graduated recently in ECE(.honors)Electroncis and Communication Engineering**
+**Graduated recently from ECE(.honors)Electroncis and Communication Engineering**
 
 **⚡ Fun fact:** I'm autistic! (This unique perspective helps me see things differently and approach problems creatively.)
 
