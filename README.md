@@ -1,4 +1,5 @@
-**😄 Hi, I'm Devi!** (🇮🇳 From India)
+**😄 Hi, I'm Devi!** 
+(🇮🇳 From India)
 **You can call me Devi or Chai!!**
 **Pronouns:** **He/Him**
 
