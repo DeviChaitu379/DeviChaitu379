@@ -1,5 +1,13 @@
 **😄 Hi, I'm Devi!** (🇮🇳 From India)
-  ** Pronouns:** He/Him
+**You can call me Devi or Chai!!**
+**Pronouns:** **He/Him**
+
+**Graduated recently in ECE(.honors)Electroncis and Communication Engineering**
+
+**⚡ Fun fact:** I'm autistic! (This unique perspective helps me see things differently and approach problems creatively.)
+
+**Diverse project experience (Power Electronics, IoT, Robotics, 3D Animation) (Always up for a new challenge!, will mention some of my projects below in projects section)**
+
 **🥊 I'm interested in:**
 
 *  Robotics (Building things that move and interact with the world!)
@@ -8,8 +16,8 @@
 
 **📚 I'm currently learning:**
 
-*  Local LLM training techniques (Empowering AI models to run locally)
-*  Advanced robotics concepts (Pushing the boundaries of what robots can do)
+*  Local LLM training techniques and Deployment (Empowering AI models to run locally)
+*  Advanced Robotics concepts (Pushing the boundaries of what robots can do)
 
 **🤝️ I'm looking to collaborate on:**
 
@@ -19,17 +27,10 @@
 
 **📨 How to reach me:**
 
-*  Email: chaitanyas20070903@gmail.com (Feel free to drop me a line!)
-*  LinkedIn: www.linkedin.com/in/devichaitanya (Let's connect!)
+*  Email: [chaitanyas20070903@gmail.com] (Feel free to drop me a line!)
+*  LinkedIn: [www.linkedin.com/in/devichaitanya] (Let's connect!)
 
-
-
-**⚡ Fun fact:** I'm autistic! (This unique perspective helps me see things differently and approach problems creatively.)
-
-
-*  Diverse project experience (Power Electronics, IoT, Robotics, 3D Animation) (Always up for a new challenge!)
-
-**Projects**
+**🌟Projects**
 
 Here are some of my notable projects:
 
