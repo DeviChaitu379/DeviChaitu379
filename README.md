@@ -34,14 +34,14 @@
 
 Here are some of my notable projects:
 
-**Ion Engine Working Prototype**
+*  **Ion Engine Working Prototype**
 
-**ZVS High Power Wireless Charging System**
+*  **ZVS High Power Wireless Charging System**
 
 
-**Robotic Arm and Object Detection**
+*  **Robotic Arm and Object Detection**
 
-**Local LLM Training and Deployment**
+*  **Local LLM Training and Deployment**
 
 **Note:** I'm always working on new projects and exploring exciting technologies. Feel free to reach out if you'd like to collaborate or discuss potential projects.
 
