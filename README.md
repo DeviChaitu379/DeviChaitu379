@@ -28,7 +28,7 @@
 
 **📨 How to reach me:**
 
-*  Email: [chaitanyas20070903@gmail.com] (Feel free to drop me a line!)
+*  Email: [devic72k@gmail.com] (Feel free to drop me a line!)
 *  LinkedIn: [www.linkedin.com/in/devichaitanya] (Let's connect!)
 
 **🌟Projects**
